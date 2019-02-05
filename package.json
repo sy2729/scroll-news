@@ -1,0 +1,19 @@
+{
+  "name": "news-bar",
+  "version": "1.0.0",
+  "description": "# Create news-look scroll bar with data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.8",
+    "sass": "^1.17.0"
+  },
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
