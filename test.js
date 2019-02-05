@@ -1,4 +1,4 @@
-import Bar from './app.js'
+// import Bar from './app.js'
 
 let bar = new Bar(
    {
